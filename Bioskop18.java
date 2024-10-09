@@ -30,7 +30,7 @@ public class Bioskop18 {
             System.out.println("Harga total untuk " + totalTiket + " tiket adalah: Rp " + hargaTotalDisc);
         }
         System.out.println("===================================");
-        System.out.println("Total tiket terjual  : " + totalTiketTerjual);
+        System.out.println("Total tiket terjual  : " + totalTiketTerjual);  
         System.out.println("Total penjualan tiket: Rp " + totalPenjualan);
     }
 }
